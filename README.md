@@ -10,4 +10,6 @@ This was a pretty interesting university assignment.
 
 I hope you like it!
 
-![The image belongs to http://www.cs.uah.edu/~rcoleman/CS221/Trees/Images/AVL02.jpg](https://github.com/ionitacosmin95/AVL-Trees/blob/master/Images/AVL02.jpg)
+![](https://github.com/ionitacosmin95/AVL-Trees/blob/master/Images/AVL02.jpg)
+
+The image belongs to: http://www.cs.uah.edu/~rcoleman/CS221/Trees/Images/AVL02.jpg
